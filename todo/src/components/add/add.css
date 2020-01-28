@@ -1,0 +1,30 @@
+.add-item *{
+    display: inline-block;
+}
+
+.add-item{
+    margin-bottom: 20px;
+}
+
+.add-item input{
+    border: 2px solid #6c757d;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    width: 385px;
+}
+
+.add-item input:hover{
+    border-radius: 5px;
+    border: 2px solid #138496;
+}
+
+.add-item input:focus{
+    outline: 0;
+    box-shadow: 0 0 5px 1px #138496;
+    border: 2px solid #138496;
+}
+
+
+.add-item button{
+    margin: 0 0 5px 10px
+}

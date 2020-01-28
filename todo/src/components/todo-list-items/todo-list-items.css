@@ -1,0 +1,47 @@
+.label-todo{
+    border: 2px solid #6c757d;
+    padding: 4px 10px 0 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.label-todo span{
+    width: 260px;
+    padding: 5px 10px 5px 10px;
+    margin-right: 65px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.label-todo:hover{
+    border-color: #138496;;
+}
+
+.label-btm *{
+    margin: 0 5px 4px 0;
+    text-align: center;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.importantDefault{
+    color: black;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.important{
+    color: #17a2b8;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.showOn {
+    display: inline-block;
+}
+
+.showOff {
+    display: none;
+}

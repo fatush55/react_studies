@@ -1,0 +1,9 @@
+.head-todo{
+    display: flex;
+}
+
+.head-todo h6 {
+    color: #6c757d;
+    line-height: 60px;
+    margin-left: 30px;
+}

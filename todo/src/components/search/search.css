@@ -1,0 +1,22 @@
+.search-todo{
+    margin-bottom: 5px;
+}
+
+.search-todo input{
+    width: 256px;
+    border-radius: 5px;
+    border: 2px solid #6c757d;
+    padding: 4px 10px 4px 10px;
+    margin-right: 20px;
+}
+
+.search-todo input:hover{
+    border-radius: 5px;
+    border: 2px solid #138496;
+}
+
+.search-todo input:focus{
+    outline: 0;
+    box-shadow: 0 0 5px 1px #138496;
+    border: 2px solid #138496;
+}

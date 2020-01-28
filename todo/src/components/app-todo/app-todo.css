@@ -1,0 +1,7 @@
+.main-todo{
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    top: 30%;
+    margin-left: -250px;
+}
